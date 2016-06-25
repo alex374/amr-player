@@ -27,5 +27,5 @@ usage:
 	var player = new AmrPlayer('http://xxx.com/xxx.amr');
 	player.endWith(function(){ console.log( xxx ) });
 	player.play();
-	// player.pause();
-	// player.toggle();
+	// or player.pause();
+	// or player.toggle();
